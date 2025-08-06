@@ -45,7 +45,8 @@ Insight: A Loja 3 obteve a melhor média de avaliações, refletindo maior satis
 ## ⚙️ Como Executar o Projeto
 Clonar o repositório ou baixar os arquivos:
 
-https://github.com/seu-usuario/alura-store-analise.git
+https://github.com/liinedosanjos/Desafio-1-Alura-Store.git
+
 Abrir o notebook no Google Colab ou Jupyter Notebook:
 
 Para Google Colab:
